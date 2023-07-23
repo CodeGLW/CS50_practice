@@ -1,4 +1,4 @@
-Hello! Right now, I'm taking Harvard's CS50 intro to computer science class. Here's where I'll record my progress :). The unpaid version of the class I have does give assignments, but they're not graded. That's why I'm submitting them here. And, other people can look here if they need help with some of their CS50 assignments. 
+Hello, world! Right now, I'm taking Harvard's CS50 intro to computer science class. Here's where I'll record my progress :). The unpaid version of the class I have does give assignments, but they're not graded. That's why I'm submitting them here. And, other people can look here if they need help with some of their CS50 assignments. 
 
 Goals:
 Understand other languages besides python
